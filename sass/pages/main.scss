@@ -1,0 +1,11 @@
+// @use "./content";
+@use "../layout/global-rules";
+// variables 
+$main_color:black;
+$main_font:'cursive';
+.NavBar{
+    $font:18px !global ;
+    background-color: $main_color;
+    font-family: $mai;
+}
+
